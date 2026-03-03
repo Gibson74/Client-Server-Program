@@ -8,7 +8,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <netdb.h>
-
+//Credit to sil@cpp.edu for working on parts of chat_client.c
 
 void report(const char* msg, int terminate){
         perror(msg);
